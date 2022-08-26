@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body{
+    background-color:#ffffff;
+    width: 100%;
+    height: 100%;
+}
+
+header{
+    background-color: rgba(196, 196, 196, 1);
+    width: 100%;
+    height: 150px;
+}
+
+header li{
+    float: left;
+    margin: 63px 20px;
+    /* margin-right: 20px; */
+    font-size: 18px;
+    /* background-color: #FFE600; */
+}
+
+.slaideri{
+    width:100%;
+    height:400px;
+    background-color: rgb(37, 36, 36);
+
+}
+/* .mshobeli{
+    margin: 20px 20px;
+    background-color: #111010;
+} */
+
+.mshobeli{
+    /* background-color: black; */
+    background-color: #ffffff;
+    width: 100%;
+    height: 388px;
+    padding: 20px;
+}
+.siaxleebi{
+    width: 33.3%;
+    height: 348px;
+    float: left;
+     
+}
+.erti{
+     width: 33.3%;
+    background-color: #FF9901;
+}
+.ori{
+    background-color: #FFC700;
+}
+.sami{
+    background-color: #FFE600;
+}
+surati1{
+    width: 100%;
+    height: 200px;
+}
+.mshobeli img{
+    width: 100%;
+    height: 200px;
+
+}
+h3{
+    margin: 10px;
+}
+.mshobeli p{
+    margin: 10px;
+    font-size: 12px;
+    
+}
+.cont{
+    
+    color: rgb(39, 38, 38);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ufleba{
+    width: 100%;
+    height: 56px;
+}
+
+.ufleba p{
+    font-size: 12px;
+    padding: 20px;
+    
+}
