@@ -16,32 +16,33 @@ header{
     background-color: rgba(196, 196, 196, 1);
     width: 100%;
     height: 150px;
+    padding: 62px 38px;
 }
 
 header li{
     float: left;
-    margin: 63px 20px;
-    /* margin-right: 20px; */
+    padding: 2px 6px;
+    margin-right: 20px;
     font-size: 18px;
     /* background-color: #FFE600; */
 }
-.fa-facebook{
-    color: #f77b15;
-    font-size: 20px;
+header p{
+    float: right;
+    font-size: 22px;
 }
+header i{
+    color: #6201ff;
+}
+
 .slaideri{
     width:100%;
     height:400px;
     background-color: rgb(37, 36, 36);
 
 }
-/* .mshobeli{
-    margin: 20px 20px;
-    background-color: #111010;
-} */
 
 .mshobeli{
-    /* background-color: black; */
+    background-color: black;
     background-color: #ffffff;
     width: 100%;
     height: 388px;
@@ -54,7 +55,7 @@ header li{
      
 }
 .erti{
-     width: 33.3%;
+     /* width: 33.3%; */
     background-color: #FF9901;
 }
 .ori{
@@ -81,7 +82,6 @@ h3{
     
 }
 .cont{
-    
     color: rgb(39, 38, 38);
 }
 
