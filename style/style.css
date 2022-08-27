@@ -46,7 +46,7 @@ header i{
     background-color: #ffffff;
     width: 100%;
     height: 388px;
-    padding: 20px;
+    padding: 34px;
 }
 .siaxleebi{
     width: 33.3%;
@@ -85,33 +85,65 @@ h3{
     color: rgb(39, 38, 38);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer{
     width: 100%;
-    height: 58px;
+    height: 60px;
     background-color: #ffffff;
 }
 .ufleba{
     width: 200px;
     height: 16px;
-    padding: 20px;
+    padding: 34px 0 30px 36px;
+    font-size: 12px;
 }
-.ufleba p{
-    font-size: 12px;   
+
+/* siaxleebis meore gverdi */
+
+
+ 
+.back{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+    margin: 13px 48px;
+}
+.back::before{
+    content: "< <  "
+}
+
+.tetri{
+    width: 100%;
+    height: 740px;
+    background-color: #ffffff;
+    padding: 0 34px;
+}
+
+.didi{
+    width: 100% ;
+    height: 740px;
+    background-color: #FF9900;
+    padding: 56px 0 0 0;
+}
+.didi h3{
+    color: #000000;
+    font-size: 18px;
+}
+
+.didi div{
+    width: 33.33%;
+    height: 200px;
+    border: 1px solid #000000;
+    float: left;
+    margin: 56px 0 36px 0;
+}
+.statia{
+    clear:both;
+    font-size: 14px;
+    color: #000000;
+    margin: 0px 19px 32px 10px ;
+}
+.news2{
+    background-color: #FFC700;
+}
+.news3{
+    background-color: #FFE600;
 }
