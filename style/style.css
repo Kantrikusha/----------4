@@ -38,9 +38,12 @@ header i{
     width:100%;
     height:400px;
     background-color: rgb(37, 36, 36);
+}
+main img{
+    width: 100%;
+    height: 100%;
 
 }
-
 .mshobeli{
     background-color: black;
     background-color: #ffffff;
@@ -52,8 +55,8 @@ header i{
     width: 33.3%;
     height: 348px;
     float: left;
-     
 }
+
 .erti{
      /* width: 33.3%; */
     background-color: #FF9901;
@@ -104,7 +107,7 @@ footer{
 .back{
     font-size: 12px;
     color: rgba(0, 0, 0, 0.5);
-    margin: 13px 48px;
+    margin: 14px 48px;
 }
 .back::before{
     content: "< <  "
@@ -139,7 +142,7 @@ footer{
     clear:both;
     font-size: 14px;
     color: #000000;
-    margin: 0px 19px 32px 10px ;
+    margin: 0px 20px 32px 10px ;
 }
 .news2{
     background-color: #FFC700;
